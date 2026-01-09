@@ -1,0 +1,148 @@
+Trivia 4
+
+General
+What is the name of Harry Potter's Owl? (Hedwig)
+What gas makes up the majority of the atmosphere? (Nitrogen)
+What movie won the Academy Award for Best Animated Feature? (Shrek)
+What is the maximum number of points you can score in a single game of 10-pin bowling? (300)
+In the NATO phonetic alphabet what word represents the letter 'K'? (Kilo)
+What is the Eastern most great Lake? (Lake Ontario)
+Venison is colloquially known as meat from what animal? (Deer)
+What letter represent the largest value in the Roman Numeral System? (M [1000])
+What city do the Simpsons live in? (Springfield)
+What zodiac sign is represented by a pair of twins? (Gemeni)
+
+Little Animals
+What insect is coined the loudest in the world [100+ decibels] (Cicada)
+Bees, Wasps and what other insect are described as Eusocial, meaning they have a highly organized societal system (Ants, termites)
+What is the specific name for a baby hedgehog (hoglet)
+What is the strongest insect, with the ability to pull over 1000x its body weight (Dung beetle)
+What is the name of the salamander nicknamed the “walking fish” (axolotl)
+What is the specific term for a group of ferrets (A business)
+What is the only bird that can fly backwards (hummingbird)
+What marsupial is known for "playing dead" when threatened (Opossum)
+What insect is capable of flying over 55 km/h? (The dragonfly)
+Silverfish are unique and known as "living fossiles" because they lack what common modern insect feature? (Wings)
+
+Also Known As
+A Vaccuum flask is also known as what brand name? (Thermos)
+What white collar occupation uses a gavel? (A judge)
+A Hook and Loop fastener is also known as what? (Velcro)
+What do you call the clawed side of a hammer?  (Peen)
+Expanded polystyrene is also known as what product, originally a brand name(Styrofoam)
+An Obelus is also known as what? (Division symbol)
+What is the name for the dots over lower case i's and j's? (A tittle)
+What common fruit has phloem bundles? (A Banana)
+In what room of the house would you find a colander? (Kitchen)
+A Rebound Tumbler is also known as what product, originally a brand name? (A Trampoline)
+
+Who sang it (2025)
+"You not a colleague you a fuckin colonizer" (Kendrick Lamar - Not like Us)
+"But while in this world, I'll take my whiskey neat" (Hozier - Too Sweet)
+"I don't know what I'm crying for, I don't think I could love you more" (Billie Eilish - Birds of a Feather)
+"Im just having fun on the stage in my heels, it's where I belong" (Chappell Roan - Pink Pony Club)
+"Switch it up like Nintendo, Say you can't sleep, baby, I know" (Sabrina Carpenter - Espresso)
+"There's a party downtown near 5th street, everybody at the bar gettin tipsy" (Shaboozey - A Bar Song [Tipsy])
+"Somethings got a hold of my lately, No I don't know my self anymore" (Teddy Swims - Lose Control)
+"Please stay, I want you I need you oh God" (Benson Boone - Beautiful Things)
+"Bro its getting sticky, sticky, sticky, Bitch its getting sticky, sticky, sticky" (Tyler the Creator - Sticky)
+"In this world, concrete flowers grow, Heartache, she only doing what she know" [Female artist] (SZA - luther)
+
+The Corporate World
+What company invented the Walkman (Sony)
+What logistics company was allegedly on the verge of bankruptcy until the founder turned it's last $5000 into $27000 playing blackjack? (FedEx)
+What well known tech company was originally named BackRub? (Google)
+Before video games, Nintendo primarily produced what product? (Playing cards)
+What company is named after the 'First Mate' in Moby Dick? (Starbucks)
+What tech giant's name translates to 'Three Stars' in Korean? (Samsung)
+What was the name of the Twitter Bird, named after an NBA player (Larry)
+What company, known for making chocolate, is the worlds largest pet food manufacturer? [Own Whiskas, Royal Canin] (Mars Inc)
+What toy company also happens to be the largest tire manufacturer in the world? (LEGO)
+What soda's name is slang for Moonshine, and was orginally invented specifically as a whiskey mixer? (Mountain Dew)
+
+21st Century:
+The worst recession since the great depression, First Beijing Olympics, Breaking bad Premieres (2008)
+Tom Brady Retires, Former US President Donald Trump is indicted, OceanGate Titan submersible implodes (2023)
+Wiz Khalifa and Charlie Puth release "See you Again", Malaysia flight MH370 disappears and is never to be found again, Filf Fifty Shades of Grey is released (2015)
+Michael Jackson dies of acute propofol intoxication, Bitcoin is intially launched, The H1N1 flu is responsible for the swine flu pandemic (2009)
+Twitter is launched, Pluto is declared a dwarf planet, the Wii console is released (2006)
+Summer olympics are held in Sydney, TV show Survivor debuts, the Playstation 2 is released (2000)
+The first iPhone is released, Water is discovered on Mars, The CAD is worth more than the USD for the first time (2007)
+Gangnam Style becomes an internet phenomenon, Curiosity lands on Mars, President Barack Obama is wins the election (2012)
+The Boston marathon is bombed by a domestic terrorist attack, Pope Francis is elected, Edward Snowden leaks classified NSA documents (2013)
+A fire devastates The Notre Dame in Paris, Lil Nas X's Old town road breaks records, Avengers Endgame is released (2019)
+
+Finals:
+
+Name the 2025 Formula 1 teams 
+Alpine
+Aston Martin
+Ferrari
+Haas
+Kick Sauber
+McLaren
+Mercedes
+Redbull Racing
+Racing Bulls
+Williams
+
+Name all scrabble tiles that are worth only 1 point
+A, E, I, L, N, O, R, S, T, U, 
+
+
+
+
+===============
+Jace
+Evan 
+Scott
+Hanna	
+Kaly
+Dylan
+Vippy 
+Nick	
+Vivian
+Julia
+Austin
+Kyle
+Justin
+Yan
+Cass
+Kai
+Mollie
+Seongu
+Parsa
+Ty
+Zain
+
+Create 4 teams of 3 and 2 team of 4
+Evan must be on a team of 3
+Vivian must be on a team with Parsa XOR Yan
+Vivian cannot be on the same team as Justin
+Kai and Mollie must be on a team together
+Yan and Parsa cannot be on the same team
+Evan and Vippy cannot be on the same team
+Kyle cannot be on a team with Vippy, Kaly, Hanna or Cass
+Teams of 4 must have 2 girls
+The following groups must be evenly distributed.  That is, the difference between each team must be at most 1 for each group:
+	'girls': Jace, Hanna, Kaly, Vippy, Vivian, Julia, Cass, Mollie, Seongu
+	'core': Jace, Evan, Scott, Hanna, Kaly, Dylan, Vippy, Justin, Seongu, Kyle, Ty, Cass, Zain
+	'spikeball': Dylan, Austin, Kyle, Cass
+	'past winners': Vippy, Kyle, Zain, Hanna, Cass, Nick
+
+Vivian, Parsa, Vippy, Dylan 
+Kyle, Seongu, Mollie, Kai 
+Austin, Jace, Julia, Zain
+Evan, Hanna, Scott
+Ty, Justin, Cass
+Kaly, Yan, Nick
+
+?
+Evan, Jace, Nick 
+Kyle, Scott, Seongu 
+Austin, Zain, Kaly 
+Kai, Mollie, Hanna, Justin 
+Vivian, Yan, Vippy, Dylan 
+Cass, Julia, Ty, Parsa
+
+
